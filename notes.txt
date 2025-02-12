@@ -1,0 +1,7 @@
+CLI Commands
+cd / = changes directories to the home directory
+cd = foldername = changes directory forward to another directory
+cd .. = changes directory one step back
+mkdir = creates new directory
+echo > filename.extension = creates a file within a directory
+cat ./filename.extension = prints on terminal the contents of the file
