@@ -5,3 +5,5 @@ cd .. = changes directory one step back
 mkdir = creates new directory
 echo > filename.extension = creates a file within a directory
 cat ./filename.extension = prints on terminal the contents of the file
+More information
+I have added more information
